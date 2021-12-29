@@ -27,8 +27,8 @@ I currently engage in autonomous lawyering in the following communities and have
 
 I additionally provide business consulting, corporate advisory and other non-legal services to various crypto-native communities and traditional companies through LF Advisory LLC.
 
-I also hold non-immaterial amounts (by portfolio %) of ETH, BTC, MATIC, SUSHI, BANK, FF, XYZ & various stablecoins 
+I also hold non-immaterial amounts (by portfolio %) of ETH, BTC, CVX, BANK, GTC, BTRFLY & various stablecoins 
 
 I disclaim any responsibility to keep these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure. 
 
-Last updated: 16 Sep 2021
+Last updated: 29 Dec 2021
