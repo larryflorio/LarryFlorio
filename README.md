@@ -16,7 +16,7 @@ As such, reviewing any work product reviewed should not be used as a substitute 
 
 **VIEWS EXPRESSED DISCLAIMER** 
 
-In engaging in autonomous lawyering, I am not acting on behalf of my law firm or any other employer of mine, nor on behalf of my clients (i.e., those with whom I have signed engagement letters providing that I will act as their attorney).  Any views or opinions expressed in work product or otherwise in furtherance of autonomous lawyering are mine and do not reflect the opinions or views of my firm, or other employer or organization with which I am affiliated, including [Syndicate Inc](https://syndicate.io). 
+In engaging in autonomous lawyering, I am not acting on behalf of my law firm or any other employer of mine, nor on behalf of my clients (i.e., those with whom I have signed engagement letters providing that I will act as their attorney).  Any views or opinions expressed in work product or otherwise in furtherance of autonomous lawyering are mine and do not reflect the opinions or views of my firm, or other employer or organization with which I am affiliated, including [Terraform Labs](https://terra.money). 
 
 I currently engage in autonomous lawyering in the following communities and have the following economic interests therein:  
 
