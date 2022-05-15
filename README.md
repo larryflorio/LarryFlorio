@@ -16,7 +16,7 @@ As such, reviewing any work product reviewed should not be used as a substitute 
 
 **VIEWS EXPRESSED DISCLAIMER** 
 
-In engaging in autonomous lawyering, I am not acting on behalf of my law firm or any other employer of mine, nor on behalf of my clients (i.e., those with whom I have signed engagement letters providing that I will act as their attorney).  Any views or opinions expressed in work product or otherwise in furtherance of autonomous lawyering are mine and do not reflect the opinions or views of my firm, or other employer or organization with which I am affiliated, including [Terraform Labs](https://terra.money). 
+In engaging in autonomous lawyering, I am not acting on behalf of my law firm or any other employer of mine, nor on behalf of my clients (i.e., those with whom I have signed engagement letters providing that I will act as their attorney).  Any views or opinions expressed in work product or otherwise in furtherance of autonomous lawyering are mine and do not reflect the opinions or views of my firm, or other employer or organization with which I am affiliated. 
 
 I currently engage in autonomous lawyering in the following communities and have the following economic interests therein:  
 
@@ -25,8 +25,8 @@ I currently engage in autonomous lawyering in the following communities and have
 
 I additionally provide business consulting, corporate advisory and other non-legal services to various crypto-native communities and traditional companies through LF Advisory LLC.
 
-I also hold non-immaterial amounts of LUNA, ETH, BTC, BTRFLY & various stablecoins 
+I also hold non-immaterial amounts of ETH, BTC & various stablecoins 
 
 I disclaim any responsibility to keep these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure. 
 
-Last updated: 26 March 2022
+Last updated: 15 May 2022
