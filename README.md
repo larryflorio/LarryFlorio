@@ -23,7 +23,7 @@ I currently engage in autonomous lawyering in the following communities and have
 * LeXpunK Army
 * LeXpunkDAO1
 
-In addition to the above, I am General Counsel of [Delphia](https://delphia.com) and a co-founder of Thing3, a service DAO that provides operational support to recently launched projects. I also provide business consulting, corporate advisory and other non-legal services to various crypto-native communities and traditional companies through LF Advisory. Through this various activities, I have direct and indirect economic interests in a number of companies, projects & investment vehicles. I use my reasonable commercial judgment to advise parties of specific potential or actual conflicts of interests, consistent with my obligations and good business practices.
+In addition to the above, I am General Counsel of [Delphia](https://delphia.com) and a co-founder of Thing3, a service DAO that provides operational support to recently launched projects. I also provide business consulting, corporate advisory and other non-legal services to various crypto-native communities and traditional companies through LF Advisory. Through these businesses and my personal investment activities, I have direct and indirect economic interests in a number of companies, projects & investment vehicles. I use my reasonable commercial judgment to advise parties of specific potential or actual conflicts of interests, consistent with my obligations and good business practices.
 
 I also hold non-immaterial amounts of ETH, BTC, a number of DeFi tokens & various stablecoins 
 
