@@ -12,7 +12,7 @@ From time to time, I may engage in "autonomous lawyering," adhering to the princ
 
 For the avoidance of doubt, I assume no responsibility or liability for any errors or omissions in any work product that is a result of autonomous lawyering efforts. Any views expressed, analysis or other work product are provided “as is” for public discourse and discussion purposes only on matters of interest with no guarantees of completeness, accuracy, usefulness or timeliness and without warranty of any kind, express or implied. You are cautioned not to rely on, and if my work product in autonomous lawyering contexts proves to be inaccurate, there will be no legal recourse against me and an injured party will not be covered by malpractice insurance. 
 
-As such, reviewing any work product reviewed should not be used as a substitute for consultation with professional accounting, tax, legal or other competent advisers.  In no event will I or my non-legal advisory entity LF Advisory LLC, or the agents, employees or affiliates thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in any work product or for any consequential, special or similar damages, even if advised of the possibility of such damages.   
+As such, reviewing any work product reviewed should not be used as a substitute for consultation with professional accounting, tax, legal or other competent advisers.  In no event will I or my non-legal advisory practice, LF Advisory, or the agents, employees or affiliates thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in any work product or for any consequential, special or similar damages, even if advised of the possibility of such damages.   
 
 **VIEWS EXPRESSED DISCLAIMER** 
 
@@ -23,10 +23,10 @@ I currently engage in autonomous lawyering in the following communities and have
 * LeXpunK Army
 * LeXpunkDAO1
 
-I additionally provide business consulting, corporate advisory and other non-legal services to various crypto-native communities and traditional companies through LF Advisory LLC.
+In addition to the above, I am General Counsel of [Delphia] (https://delphia.com) and a co-founder of Thing3, a service DAO that provides operational support to recently launched projects. I also provide business consulting, corporate advisory and other non-legal services to various crypto-native communities and traditional companies through LF Advisory. Through this various activities, I have direct and indirect economic interests in a number of companies, projects & investment vehicles. I use my reasonable commercial judgment to advise parties of specific potential or actual conflicts of interests, consistent with my obligations and good business practices.
 
-I also hold non-immaterial amounts of ETH, BTC & various stablecoins 
+I also hold non-immaterial amounts of ETH, BTC, a number of DeFi tokens & various stablecoins 
 
 I disclaim any responsibility to keep these disclosures up to date, but currently anticipate updating them from time to time to reflect the changes I deem sufficiently material to warrant disclosure. 
 
-Last updated: 15 May 2022
+Last updated: 15 July 2022
